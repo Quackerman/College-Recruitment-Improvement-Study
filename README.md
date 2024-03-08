@@ -12,7 +12,5 @@ Look at the records of just the Non-Computing Majors taking Computing Major clas
 
 Files:
 Project 1 Step 3 - File that contains Data Analysis and Visualization, as well as updated cleaning for both surveys.
-Project 1 Step 2 - File that contains outdated cleaning for Major survey.
-Non-Major Survey Results Fall (2020-2023) - Contains survey results for nonmajor classes
-Major Survey Results Fall (2020-2023) - Contains survey results for Major classes
-.ipynb_checkpoints - reference folder to help when coding.
+Non-Majors Survey Results Fall 2023 - Contains survey results for nonmajor classes
+Majors Survey Results Fall 2023 - Contains survey results for Major classes
