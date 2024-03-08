@@ -9,3 +9,10 @@ What goals & motivations do students have when going into Computer Science relat
 What computing majors are students most interested in, and what majors are they not interested in?
 Looking at the latest survey results (2023) from both the Majors and Non-Majors surveys, what are the race/ethnicity demographic differences between the Majors and Non-Majors respondents?
 Look at the records of just the Non-Computing Majors taking Computing Major classes. This group includes: Challenger, ShareTime, Non-Degree Seeking, Undecided and all those who selected Other.  What is the interest level for taking another computing class? Show a bar chart with the count for each interest level.
+
+Files:
+Project 1 Step 3 - File that contains Data Analysis and Visualization, as well as updated cleaning for both surveys.
+Project 1 Step 2 - File that contains outdated cleaning for Major survey.
+Non-Major Survey Results Fall (2020-2023) - Contains survey results for nonmajor classes
+Major Survey Results Fall (2020-2023) - Contains survey results for Major classes
+.ipynb_checkpoints - reference folder to help when coding.
